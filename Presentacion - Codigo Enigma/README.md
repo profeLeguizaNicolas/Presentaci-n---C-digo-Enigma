@@ -2,7 +2,7 @@
 
 - **Consigna**:
 
-Deberán realizar una presentación digital en grupos de 2 integrantes utilizando una herramienta como `PowerPoint`, `Google slides`, `Canva` u otra aplicación similar. El objeetivo es analizar y presentar los aspectos más importantes de la película `Código Enigma`, integrando también uno o mas videos o fragmentos audiovisiaules y imagenes relacionadas con la temática.
+Deberán realizar una presentación digital en grupos de 2 integrantes utilizando una herramienta como `PowerPoint`, `Google slides`, `Canva` u otra aplicación similar. El objetivo es analizar y presentar los aspectos más importantes de la película `Código Enigma`, integrando también uno o mas videos o fragmentos audiovisiaules y imagenes relacionadas con la temática.
 
 **La presentación debe incluir:**
 
